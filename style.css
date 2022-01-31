@@ -1,6 +1,12 @@
-<<<<<<< Updated upstream
+
+body{
+  display:flex;
+
+}
+
+
+
 header {
+  display: flex;
   text-align: center;
 }
-=======
->>>>>>> Stashed changes
