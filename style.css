@@ -2,3 +2,7 @@ header {
   justify-content: center;
   text-align: center;
 }
+
+.f1 {
+  display: inline-block;
+}
