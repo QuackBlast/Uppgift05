@@ -2,6 +2,6 @@ body {
   display: flex;
 }
 
-header {
+.main-header {
   justify-content: center;
 }
