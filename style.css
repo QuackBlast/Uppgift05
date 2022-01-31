@@ -1,8 +1,6 @@
 body {
-  display: flex;
 }
 
 .main-header {
-  display: flex;
-  justify-content: center;
+justify-content: center;
 }
