@@ -1,3 +1,7 @@
 .btn-danger {
   background-color: red;
 }
+
+.col-sm-4 m-bottom-offset {
+  width: 50%;
+}
