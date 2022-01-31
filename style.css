@@ -10,5 +10,10 @@ body {
 
 h1 {
   display: flex;
-  justify-content:center;
+  justify-content: center;
+}
+
+h2 {
+  display: flex;
+  justify-content: end;
 }
