@@ -1,6 +1,7 @@
 body {
+  margin: 0;
 }
 
 .main-header {
-justify-content: center;
+  justify-content: center;
 }
