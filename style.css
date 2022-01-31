@@ -1,3 +1,7 @@
+body {
+  display: flex;
+}
+
 header {
   justify-content: center;
 }
