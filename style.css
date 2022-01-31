@@ -1,16 +1,17 @@
 body {
   background-color: lightgray;
-    margin: 0%;
-    text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-    height: 100vh;
-    margin: 0;
-    padding: 0;
-	display: flex;
-	flex-direction: column;
-	overflow: hidden;
+  margin: 0%;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
 }
 
 .main-header {
-align-items: center;
+  display: flex;
+  justify-content: flex-end;
 }
