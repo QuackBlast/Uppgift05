@@ -1,5 +1,5 @@
 body {
-  background-color: #09bc8a;
+  background-color: #357ded;
   color: #fff;
   margin: 0%;
   text-align: center;
@@ -52,7 +52,7 @@ h1 {
   width: 50%;
 }
 .grid-item3 p {
-  margin-right: 0cm;
+  margin-right: 0.2cm;
 }
 
 .grid-item4 img {
@@ -74,7 +74,7 @@ h1 {
   width: 50%;
 }
 .grid-item6 p {
-  margin-right: 0cm;
+  margin-right: 0.2cm;
 }
 
 .grid-item7 img {
@@ -96,5 +96,5 @@ h1 {
   width: 50%;
 }
 .grid-item9 p {
-  margin-right: 0cm;
+  margin-right: 0.2cm;
 }
