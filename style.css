@@ -92,3 +92,8 @@ h1 {
 .grid-item9 p {
   margin-right: 0.2cm;
 }
+button {
+  border-radius: 8px;
+  color: #fff;
+  background-color: #000;
+}
